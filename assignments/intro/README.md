@@ -18,4 +18,4 @@ See where it says "Python 2.7.10"? Find the corresponding version number on your
 
 Finally **put both a link to you Github account and the version number in [this spreadsheet](https://docs.google.com/spreadsheets/d/1-wqRjniiLLuZrwKh7xeFwCaN_sgfW2LGZJXW8WNCh-M/edit#gid=0)**.
 
-Bingo. You're done. Due **Wednesday, Aug. 29**.
+Bingo. You're done. Due **Monday, Feb. 11**.
