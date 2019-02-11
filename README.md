@@ -1,6 +1,6 @@
 # Advanced Data Journalism, spring 2019
 
-Welcome to Advanced Data Journalism for the fall semester of 2018. You should have received a copy of the syllabus from the first day of class (ask Jenner for one if you didn't). The rest of the course materials will live in this repository.
+Welcome to Advanced Data Journalism for the spring semester of 2019. You should have received a copy of the syllabus from the first day of class (ask Jenner for one if you didn't). The rest of the course materials will live in this repository.
 
 ## About the class
 
