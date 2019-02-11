@@ -43,7 +43,7 @@ These are Python tools that make it easier to install external packages and libr
 We can install them both by following a slightly modified version of the [virtualenvwrapper installation instructions](http://virtualenvwrapper.readthedocs.org/en/latest/install.html):
 
 ```
-sudo pip install virtualenvwrapper
+sudo pip install virtualenvwrapper --ignore-installed six
 echo 'export WORKON_HOME=$HOME/.virtualenvs; source /usr/local/bin/virtualenvwrapper.sh' >> ~/.bash_profile
 source ~/.bash_profile
 ```
