@@ -6,7 +6,7 @@ The assignment assumes you've installed the course software per the [installatio
 
 Once that's ready, just follow these steps:
 
-1. Clone this repository to your local machine. (`git clone https://github.com/cjdd3b/advanced-data-journalism-fall.git`)
+1. Clone this repository to your local machine. (`git clone https://github.com/cjdd3b/advanced-data-journalism.git`)
 
 2. Using the command line, navigate into the `assignments/2-installation` directory of the repository. Hint: use `cd` commands.
 
