@@ -8,7 +8,7 @@ Once that's ready, just follow these steps:
 
 1. Clone this repository to your local machine. (`git clone https://github.com/cjdd3b/advanced-data-journalism.git`)
 
-2. Using the command line, navigate into the `assignments/2-installation` directory of the repository. Hint: use `cd` commands.
+2. Using the command line, navigate into the `advanced-data-journalism/assignments/2-installation` directory of the repository. Hint: use `cd` commands.
 
 3. Activate your virtual environment. The install guide suggests you call it `dataj` but if you used another name, that's fine: `workon dataj`
 
