@@ -1,4 +1,4 @@
-# Assignment 2: Github
+# Assignment 3: Github
 
 This assignment has three parts:
 
