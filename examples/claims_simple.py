@@ -1,7 +1,6 @@
 import mechanize
 from bs4 import BeautifulSoup
 
-
 urls = [
   'http://156.99.75.64/Weblink8CityClerk/0/fol/244266/Row1.aspx',
   'http://156.99.75.64/Weblink8CityClerk/0/fol/241028/Row1.aspx',

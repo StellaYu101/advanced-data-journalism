@@ -19,4 +19,4 @@ First visit the member roster of the [Missouri House](https://house.mo.gov/Membe
 
 How would you modify that request to see House members from Boone County in 2005?
 
-This assignment is due next week, on **Monday, April 15**.
+This assignment is due next week, on **Monday, April 15**. Please submit it in the form of a text document, check it into your Github, and add a link to [the spreadsheet](https://docs.google.com/spreadsheets/d/13jEoZxDG_G8PnNLWVmazuGPzjBTOlnS4DOx6oLP7xA4/edit?usp=drive_web&ouid=116462374319624048534).
